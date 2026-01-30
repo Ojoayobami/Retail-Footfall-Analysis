@@ -243,8 +243,9 @@ This section summarizes key observations from the footfall analysis and provides
 #### 4️⃣ Optimize Regional Strengths
 - Northwest and Northeast are growth engines — optimize **store layout and dine-in efficiency** for faster service and higher throughput.
 
-## MAINDASHBOARD
+## MAIN DASHBOARD
 
 The Power BI dashboard provides **interactive visualizations** to explore footfall patterns, daily sales, units per order, and average spend per customer across stores, channels, and regions. It enables management to **monitor performance, identify trends, and make data-driven operational decisions**.
 
+<img width="1362" height="766" alt="image" src="https://github.com/user-attachments/assets/085957a9-a709-4455-8f60-6ce6275cfa9f" />
 
